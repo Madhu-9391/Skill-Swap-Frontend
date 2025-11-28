@@ -13,7 +13,7 @@ node_modules/
 # Vite build output
 dist
 dist-ssr
-src/assets/*.jpg
+
 
 # Local environment files
 *.local
